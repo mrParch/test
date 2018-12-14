@@ -1,5 +1,6 @@
 [] Improve speaking English
-[] Develop advanced git skills
+[5%] Develop advanced git skills
 [] Buy 23 inch monitor
 [] Buy playstation 4
 [] Enjoy your life =)
+[] Download 'Pro git' ebook 
